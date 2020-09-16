@@ -3,16 +3,16 @@
 
 About me
 
-- 🎤 I am a passonate FullStack developer
-- 🛸 My aim is to learn cool technologies to help craft better online user experiences.
-- 🌋 I’m always on the lookout for cool technologies to adobt and be great at.
+- 🎤 I'm a passonate Full Stack developer
+- 🛸 I strive to learn and use cool technologies for better user experience.
+- 🌋 I’m always on the lookout for cool technologies to adobt and use.
 - 💬 Currently, I program mostly with Javacript (typscript && React). But I'm also learning Rust and flutter.
-- ⛹️Check out my portfolio at [jbuyu](https://jbuyu.netlify.com/)
+- ⛹️Check out my portfolio at [port](https://jbuyu.netlify.com/)
 
 ### Other places you can find me 
 
 
-🐣 [See my LinkedIn](https://www.linkedin.com/in/jbuyu/)
+🐣 [Also, my LinkedIn](https://www.linkedin.com/in/jbuyu/)
 
 <!-- 🐣 [See my LinkedIn](https://twitter.com/ishan02016) -->
 
