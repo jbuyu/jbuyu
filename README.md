@@ -5,8 +5,8 @@ About me
 
 - 🎤 I'm a passionate Full Stack developer
 - 🌋 I’m always on the lookout for cool technologies to adopt.
-- 💬 I mostly use Javacript (Node & React) coupled with Rest/graphql/typescript.
-- ⛹️Check out my portfolio at [port](https://portfolio-teal-nine-85.vercel.app)
+- 💬 I mostly use typescript (Node & React).
+- ⛹️Check out my portfolio at [port](https://www.jbuyu.com/)
 
 ### Other places you can find me 
 
